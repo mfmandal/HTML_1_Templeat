@@ -1,0 +1,53 @@
+body{
+    background-color: #7688AC ;
+}
+.menu-bar {
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.menu-bar ul li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.header-top{
+	
+}
+.contact-me{
+    text-decoration: none;
+    font-size: 20px;
+    text-decoration-color: #DD2B28;
+}
+.img-item{
+    background: url(images/lake.jpg) !important;
+    background-repeat: no-repeat;
+    padding: 320px;
+}
+
+.social-icon {
+    position: fixed;
+}
+.social-img {
+    position: fixed;
+    left: 0px;
+}
+.social-img :hover{
+    left:150px;
+    transform: 0.5s, ease-in-out;
+}
+
+.box{
+    background-color:#36B9FF ;
+	 text-align: center;
+	 width:;
+	 border:1px solid red;
+	 padding:100px;
+}
+.mid-section{
+    background:url(images/slide1.jpg);
+    width:100%;
+    padding: 320px;
+    background-repeat: no-repeat;
+}

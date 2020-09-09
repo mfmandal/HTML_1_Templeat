@@ -1,0 +1,46 @@
+.header{
+	background-color:#242222;
+}
+.padding0{
+	padding:0px 11px;
+}
+.padding1{
+	padding:8px 70px;
+}
+.pad{
+	padding:0px 8px
+}
+.line{
+	height:2px;
+	width:100%;
+	background-color:#FFFFFF;
+}
+.lines{
+	height:2px;
+	width:38%;
+	background-color:#FFFFFF;
+}
+.footer{
+	background-color:#1E1E1E;
+}
+.social{
+	font-size:40px;
+}
+.footerexplore ul{
+	list-style:none;
+}
+.copyright{
+	background-color:#000;
+}
+.copyright-Text{
+	padding:10px 10px;
+	color:#FFFFFF;
+}
+.footer-text{
+	color:#FFFFFF;
+	padding:20px 45px;
+}
+.footer-texts{
+	color:#FFFFFF;
+	padding:0px 38px;
+}
